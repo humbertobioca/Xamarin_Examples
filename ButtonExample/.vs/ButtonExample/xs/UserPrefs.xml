@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{709D3F6C-1B96-4540-B66B-2CF88496FFF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ButtonExample/MainPage.cs">
+    <Files>
+      <File FileName="ButtonExample/MainPage.cs" Line="59" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ButtonExample.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ButtonExample.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

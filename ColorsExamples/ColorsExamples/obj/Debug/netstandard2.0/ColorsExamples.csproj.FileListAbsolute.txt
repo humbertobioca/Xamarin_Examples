@@ -1,0 +1,14 @@
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/bin/Debug/netstandard2.0/ColorsExamples.deps.json
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/bin/Debug/netstandard2.0/ColorsExamples.dll
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/bin/Debug/netstandard2.0/ColorsExamples.pdb
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.dll
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.pdb
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/bin/Debug/netstandard2.0/Xamarin.iOS.dll
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/bin/Debug/netstandard2.0/Xamarin.iOS.pdb
+/Users/aluno/Desktop/workspace/ColorsExamples/ColorsExamples/obj/Debug/netstandard2.0/ColorsExamples.csproj.CopyComplete

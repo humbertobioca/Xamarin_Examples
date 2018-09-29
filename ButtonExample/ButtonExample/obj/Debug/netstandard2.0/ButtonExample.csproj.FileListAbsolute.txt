@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/bin/Debug/netstandard2.0/ButtonExample.deps.json
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/bin/Debug/netstandard2.0/ButtonExample.dll
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/bin/Debug/netstandard2.0/ButtonExample.pdb
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.dll
+/Users/aluno/Desktop/workspace/ButtonExample/ButtonExample/obj/Debug/netstandard2.0/ButtonExample.pdb

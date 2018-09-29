@@ -1,0 +1,11 @@
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.AssemblyInfoInputs.cache
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.AssemblyInfo.cs
+/Users/aluno/Projects/TextExemple/TextExemple/bin/Debug/netstandard2.0/TextExemple.deps.json
+/Users/aluno/Projects/TextExemple/TextExemple/bin/Debug/netstandard2.0/TextExemple.dll
+/Users/aluno/Projects/TextExemple/TextExemple/bin/Debug/netstandard2.0/TextExemple.pdb
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.csprojAssemblyReference.cache
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.dll
+/Users/aluno/Projects/TextExemple/TextExemple/obj/Debug/netstandard2.0/TextExemple.pdb

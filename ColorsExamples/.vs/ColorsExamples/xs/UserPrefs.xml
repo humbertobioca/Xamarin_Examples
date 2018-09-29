@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{53CC5A4E-AAA2-413D-86AD-9395190C9105}|Default">
+  <MonoDevelop.Ide.ItemProperties.ColorsExamples.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColorsExamples/Pagina1.cs">
+    <Files>
+      <File FileName="ColorsExamples/App.xaml.cs" Line="14" Column="52" />
+      <File FileName="ColorsExamples/Pagina1.cs" Line="48" Column="71" />
+      <File FileName="../SayHello/SayHello/Pagina1.cs" Line="23" Column="27" />
+      <File FileName="../SayHello/SayHello/App.xaml.cs" Line="11" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ColorsExamples.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
