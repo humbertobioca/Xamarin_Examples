@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora.iOS/Calculadora.iOS.csproj",
+      "projectUniqueName": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora.iOS/Calculadora.iOS.csproj",
       "projectName": "Calculadora.iOS",
-      "projectPath": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora.iOS/Calculadora.iOS.csproj",
+      "projectPath": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora.iOS/Calculadora.iOS.csproj",
       "packagesPath": "/Users/aluno/.nuget/packages/",
-      "outputPath": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora.iOS/obj",
+      "outputPath": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aluno/.config/NuGet/NuGet.Config"
@@ -742,8 +742,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/aluno/Desktop/workspace/Calculadora/Calculadora/Calculadora.csproj": {
-              "projectPath": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora/Calculadora.csproj"
+            "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora/Calculadora.csproj": {
+              "projectPath": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora/Calculadora.csproj"
             }
           }
         }

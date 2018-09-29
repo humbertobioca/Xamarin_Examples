@@ -3,7 +3,8 @@
     <Files>
       <File FileName="Calculadora/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="Calculadora/MainPage.xaml" Line="7" Column="15" />
-      <File FileName="Calculadora/MainPage.cs" Line="73" Column="1" />
+      <File FileName="Calculadora/MainPage.cs" Line="24" Column="35" />
+      <File FileName="Calculadora/App.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using Xamarin.Forms;
 
 namespace Calculadora
 {
     public class MainPage : ContentPage
     {
+        const String chaveTeclado = "chaveTeclado";
         StackLayout stackLayout = new StackLayout
         {
             VerticalOptions = LayoutOptions.Center,
@@ -61,6 +63,11 @@ namespace Calculadora
                 }
             }
             this.Content = stackLayout;
+            IDictionary<String,object> localStorage = Application.Current.Properties;
+
+            if( localStorage.ContainsKey(chaveTeclado)){
+                display.Text = localStorage[chaveTeclado].ToString();
+            }
         }
 
         void BtDigito_Clicked(object sender, EventArgs e)
@@ -79,6 +86,9 @@ namespace Calculadora
                 display.Text += bt.StyleId;
 
             }
+
+            Application.Current.Properties[chaveTeclado] = display.Text;
+
         }
     }
 }

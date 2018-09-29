@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora/Calculadora.csproj",
+      "projectUniqueName": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora/Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora/Calculadora.csproj",
+      "projectPath": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora/Calculadora.csproj",
       "packagesPath": "/Users/aluno/.nuget/packages/",
-      "outputPath": "/Users/aluno/Desktop/workspace/Calculadora/Calculadora/obj",
+      "outputPath": "/Users/aluno/Desktop/workspace/Xamarin_Examples/Calculadora/Calculadora/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
