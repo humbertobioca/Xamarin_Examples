@@ -8,7 +8,9 @@ namespace ColorList
     {
         public Color()
         {
-
+            get{
+                return lblNomeCor.Text;
+            }
         }
     }
 }
