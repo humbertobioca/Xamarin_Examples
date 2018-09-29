@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0B556362-BD29-4084-993C-0BC8B8159020}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClockTime/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ClockTime/MainPage.xaml.cs" Line="30" Column="3" />
+      <File FileName="ClockTime/MainPage.xaml" Line="16" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClockTime.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClockTime.iOS FirstBuild="True" />
+</Properties>

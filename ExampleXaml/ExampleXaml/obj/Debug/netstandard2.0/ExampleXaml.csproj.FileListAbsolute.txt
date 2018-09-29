@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.dll
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/ExampleXaml.pdb
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/bin/Debug/netstandard2.0/ExampleXaml.deps.json
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/bin/Debug/netstandard2.0/ExampleXaml.dll
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/bin/Debug/netstandard2.0/ExampleXaml.pdb
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ExampleXaml/ExampleXaml/obj/Debug/netstandard2.0/XamlC.stamp

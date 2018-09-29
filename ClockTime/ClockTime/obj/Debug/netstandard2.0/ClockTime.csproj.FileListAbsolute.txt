@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/bin/Debug/netstandard2.0/ClockTime.deps.json
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/bin/Debug/netstandard2.0/ClockTime.dll
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/bin/Debug/netstandard2.0/ClockTime.pdb
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/ClockTime.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/ClockTime.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/ClockTime.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/ClockTime.dll
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ClockTime/ClockTime/obj/Debug/netstandard2.0/ClockTime.pdb

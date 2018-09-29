@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{1219979C-C318-4AA0-B474-EEB450D24A14}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExampleCustomXml.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleCustomXml/Contato.xaml.cs">
+    <Files>
+      <File FileName="ExampleCustomXml/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExampleCustomXml/MainPage.xaml" Line="4" Column="9" />
+      <File FileName="ExampleCustomXml/Contato.xaml" Line="6" Column="1" />
+      <File FileName="ExampleCustomXml/Contato.xaml.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExampleCustomXml.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExampleCustomXml FirstBuild="True" />
+</Properties>

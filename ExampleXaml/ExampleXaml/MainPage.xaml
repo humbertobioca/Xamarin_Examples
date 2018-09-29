@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ExampleXaml" 
+             x:Class="ExampleXaml.MainPage">
+    <ContentPage.BackgroundColor>
+        <OnPlatform x:TypeArguments ="Color" 
+                    iOS = "Black"
+                    Android="Red"/>
+    </ContentPage.BackgroundColor>
+        
+     <Label Text="Curso de Xamarin" 
+            HorizontalOptions="Center" 
+            VerticalOptions="CenterAndExpand" >
+        <Label.VerticalOptions>
+            <OnPlatform x:Key=""
+                        iOS="Center"
+                        Android="End"/>
+        </Label.VerticalOptions>
+        <Label.FontSize>
+            <OnPlatform x:TypeArguments="
+                        iOS="Large"
+                        Android="Large"/>
+        </Label.FontSize>
+    
+    </Label>
+   
+</ContentPage>
