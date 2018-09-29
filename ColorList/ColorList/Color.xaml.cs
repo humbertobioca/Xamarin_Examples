@@ -4,11 +4,11 @@ using Xamarin.Forms;
 
 namespace ColorList
 {
-    public partial class BoxView : ContentView
+    public partial class Color : ContentView
     {
-        public BoxView()
+        public Color()
         {
-            InitializeComponent();
+
         }
     }
 }

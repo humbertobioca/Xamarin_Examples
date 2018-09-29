@@ -1,0 +1,8 @@
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/ColorList.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/BoxView.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/Color.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/ColorList.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/ColorList.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/Xamarin_Examples/ColorList/ColorList/obj/Debug/netstandard2.0/ColorList.AssemblyInfo.cs

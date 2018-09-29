@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ColorList.Color">
+    
+<Frame>
+        <StackLayout Orientation="Horizontal">
+        <BoxView x:Name="box"/>
+        
+            <StackLayout>
+                <Label x:Name="lblNomeCor"/>
+                <Label x:Name="lblHexa"/>
+                
+            </StackLayout>
+        </StackLayout>
+    </Frame>
+</ContentView>
