@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/bin/Debug/netstandard2.0/ExercicioSom.deps.json
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/bin/Debug/netstandard2.0/ExercicioSom.dll
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/bin/Debug/netstandard2.0/ExercicioSom.pdb
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.dll
+/Users/aluno/Desktop/workspace/GIT/ExercicioSom/ExercicioSom/obj/Debug/netstandard2.0/ExercicioSom.pdb

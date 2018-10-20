@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B304A793-91D5-4C8B-95D6-9DCB280670A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioSom.iOS/AudioManager.cs">
+    <Files>
+      <File FileName="ExercicioSom/MainPage.xaml.cs" Line="19" Column="59" />
+      <File FileName="ExercicioSom/MainPage.xaml" Line="9" Column="15" />
+      <File FileName="ExercicioSom/IAudioManager.cs" Line="6" Column="21" />
+      <File FileName="ExercicioSom.Android/AudioManager.cs" Line="16" Column="9" />
+      <File FileName="ExercicioSom.Android/MainActivity.cs" Line="25" Column="2" />
+      <File FileName="ExercicioSom/App.xaml" Line="7" Column="15" />
+      <File FileName="ExercicioSom.Android/Resources/values/styles.xml" Line="27" Column="6" />
+      <File FileName="ExercicioSom.iOS/AudioManager.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExercicioSom.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioSom.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.csprojAssemblyReference.cache
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/Pagina1.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/Pagina2.xaml.g.cs
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.AssemblyInfo.cs
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/bin/Debug/netstandard2.0/ExemploTabedPage.deps.json
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/bin/Debug/netstandard2.0/ExemploTabedPage.dll
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/bin/Debug/netstandard2.0/ExemploTabedPage.pdb
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.dll
+/Users/aluno/Desktop/workspace/GIT/ExemploTabedPage/ExemploTabedPage/obj/Debug/netstandard2.0/ExemploTabedPage.pdb

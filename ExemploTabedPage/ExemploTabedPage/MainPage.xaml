@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ExemploTabedPage" 
+             x:Class="ExemploTabedPage.MainPage">
+    
+    
+    <local:Pagina1 Title="PÁGINA 1"/>
+    <local:Pagina2 Title="PÁGINA 2"/>
+    
+    <NavigationPage Title="PÁGINA 3">
+        <x:Arguments>
+            <local:Pagina1/>
+        </x:Arguments>
+    </NavigationPage>
+    <TabbedPage Title="PÁGINA 4">
+        <local:Pagina1 Title="SUBMENU 1"/>
+        <local:Pagina2 Title="SUBMENU 2"/>    
+    </TabbedPage>
+    
+</TabbedPage>
