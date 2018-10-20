@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{69A1BBAE-0865-44E7-A35B-2863A8C4B1C2}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExemploBD.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ExemploBD/MainPage.xaml.cs" Line="33" Column="2" />
+      <File FileName="ExemploBD/MainPage.xaml" Line="20" Column="15" />
+      <File FileName="ExemploBD/Aluno.cs" Line="9" Column="54" />
+      <File FileName="ExemploBD/App.xaml.cs" Line="11" Column="15" />
+      <File FileName="ExemploBD/IDatabasePath.cs" Line="6" Column="26" />
+      <File FileName="ExemploBD.Android/BdPath.cs" Line="13" Column="57" />
+      <File FileName="ExemploBD.iOS/BdPath.cs" Line="13" Column="45" />
+      <File FileName="../../../.nuget/packages/xamarin.forms/3.1.0.697729/build/netstandard2.0/Xamarin.Forms.targets" Line="104" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExemploBD.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

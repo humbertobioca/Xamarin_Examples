@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/bin/Debug/netstandard2.0/ExampleWebServices.deps.json
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/bin/Debug/netstandard2.0/ExampleWebServices.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/bin/Debug/netstandard2.0/ExampleWebServices.pdb
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.csprojAssemblyReference.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.AssemblyInfo.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExampleWebServices/ExampleWebServices/obj/Debug/netstandard2.0/ExampleWebServices.pdb

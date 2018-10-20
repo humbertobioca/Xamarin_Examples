@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0C4FA279-8A4A-410C-B6A3-A50F3D4C1122}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleWebServices/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExampleWebServices/MainPage.xaml.cs" Line="28" Column="10" />
+      <File FileName="ExampleWebServices/MainPage.xaml" Line="19" Column="15" />
+      <File FileName="ExampleWebServices/ListagemFotos.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ExampleWebServices.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExampleWebServices.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+</Properties>
