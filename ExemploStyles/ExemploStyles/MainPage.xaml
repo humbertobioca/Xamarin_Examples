@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ExemploStyles" 
+             x:Class="ExemploStyles.MainPage">
+    
+    <ContentPage.Resources>
+        <Style x:Key="estiloLabel" TargetType="Label">
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="TextColor" Value="Pink"/>
+        </Style>
+        
+        <Style TargetType="Label" BasedOn="{StaticResource estiloLabel}" x:Key="estiloLabel2">
+            <Setter Property="HorizontalOptions" Value="End"/>
+        </Style>
+    </ContentPage.Resources>
+    
+        <Label Text="Welcome to Xamarin.Forms!" Style="{StaticResource estiloLabel}"/>
+    <Label Text="Welcome to Xamarin.Forms!" Style="{StaticResource estiloLabel2}"/>
+    
+</ContentPage>

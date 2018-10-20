@@ -1,0 +1,16 @@
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.csprojAssemblyReference.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.AssemblyInfo.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/bin/Debug/netstandard2.0/ExercicioMasterDetailPage.deps.json
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/bin/Debug/netstandard2.0/ExercicioMasterDetailPage.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/bin/Debug/netstandard2.0/ExercicioMasterDetailPage.pdb
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/CalenderPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ConfigPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/MasterPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/PhotosPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioMasterDetailPage/ExercicioMasterDetailPage/obj/Debug/netstandard2.0/ExercicioMasterDetailPage.pdb

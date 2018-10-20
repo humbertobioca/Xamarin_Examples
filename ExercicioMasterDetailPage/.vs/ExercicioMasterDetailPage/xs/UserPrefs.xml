@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D04EBD3A-FC51-4642-8DE2-FACB27D8F234}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioMasterDetailPage/MasterPage.xaml">
+    <Files>
+      <File FileName="ExercicioMasterDetailPage/MainPage.xaml.cs" Line="39" Column="38" />
+      <File FileName="ExercicioMasterDetailPage/MainPage.xaml" Line="13" Column="34" />
+      <File FileName="ExercicioMasterDetailPage/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="../:Users:aluno:Desktop:Xamarin_Examples:ExercicioMasterDetailPage:ExercicioMasterDetailPage:MasterPage.cs" Line="6" Column="40" />
+      <File FileName="ExercicioMasterDetailPage/MasterPage.xaml" Line="6" Column="68" />
+      <File FileName="ExercicioMasterDetailPage/MasterPage.xaml.cs" Line="12" Column="32" />
+      <File FileName="ExercicioMasterDetailPage/PhotosPage.xaml" Line="6" Column="39" />
+      <File FileName="ExercicioMasterDetailPage/PhotosPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioMasterDetailPage/ConfigPage.xaml" Line="6" Column="37" />
+      <File FileName="ExercicioMasterDetailPage/ConfigPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExercicioMasterDetailPage/CalenderPage.xaml" Line="6" Column="37" />
+      <File FileName="ExercicioMasterDetailPage/CalenderPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMasterDetailPage.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExercicioMasterDetailPage.iOS FirstBuild="True" />
+</Properties>
