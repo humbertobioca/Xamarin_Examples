@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4276D69E-3DCE-4459-9242-4EB4280F99AA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploBind/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ExemploBind/MainPage.xaml.cs" Line="17" Column="62" />
+      <File FileName="ExemploBind/MainPage.xaml" Line="17" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExemploBind.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExemploBind.iOS FirstBuild="True" />
+</Properties>

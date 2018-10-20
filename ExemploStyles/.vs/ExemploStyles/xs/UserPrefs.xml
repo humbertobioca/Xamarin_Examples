@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{B523F315-24B9-41AB-9365-7C19B0FE5CF7}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExemploStyles.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExemploStyles.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ExemploStyles/MainPage.xaml">
     <Files>
       <File FileName="ExemploStyles/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="ExemploStyles/MainPage.xaml" Line="4" Column="9" />
+      <File FileName="ExemploStyles/MainPage.xaml" Line="8" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ExemploStyles FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

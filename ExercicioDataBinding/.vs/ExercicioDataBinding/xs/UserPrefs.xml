@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{482BF69B-00BA-44BD-B261-E60ABBD513EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioDataBinding/MainPage.xaml">
+    <Files>
+      <File FileName="ExercicioDataBinding/MainPage.xaml.cs" Line="29" Column="32" />
+      <File FileName="ExercicioDataBinding/MainPage.xaml" Line="21" Column="25" />
+      <File FileName="ExercicioDataBinding.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/MainPage.xaml.cs" relfile="ExercicioDataBinding/MainPage.xaml.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExercicioDataBinding.Android PreferredExecutionTarget="Android.my_device" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExercicioDataBinding.iOS FirstBuild="True" automaticSigning="False" />
+</Properties>

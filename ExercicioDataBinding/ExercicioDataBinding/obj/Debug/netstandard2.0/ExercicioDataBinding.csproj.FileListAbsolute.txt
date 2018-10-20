@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/bin/Debug/netstandard2.0/ExercicioDataBinding.deps.json
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/bin/Debug/netstandard2.0/ExercicioDataBinding.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/bin/Debug/netstandard2.0/ExercicioDataBinding.pdb
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.csprojAssemblyReference.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.AssemblyInfo.cs
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.dll
+/Users/aluno/Desktop/Xamarin_Examples/ExercicioDataBinding/ExercicioDataBinding/obj/Debug/netstandard2.0/ExercicioDataBinding.pdb
